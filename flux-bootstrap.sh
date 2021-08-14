@@ -1,4 +1,4 @@
-export GITHUB_TOKEN="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"
+export GITHUB_TOKEN="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #flux bootstrap git \
 #  --author-email=m_az@live.in \
 #  --url=ssh://git@github.com/NotOpss/gitops-istio.git \
