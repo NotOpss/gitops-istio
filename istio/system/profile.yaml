@@ -5,3 +5,10 @@ metadata:
   name: istio-default
 spec:
   profile: demo
+  components:
+    pilot:
+      k8s:
+        resources:
+          requests:
+            cpu: 10m
+            memory: 100Mi
